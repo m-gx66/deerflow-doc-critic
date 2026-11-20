@@ -1,0 +1,31 @@
+# Secrets and local configuration
+.env
+.env.*
+config.yaml
+
+# Runtime outputs
+runs/
+logs/
+*.log
+.deer-flow/
+backend/.deer-flow/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node
+node_modules/
+.next/
+coverage/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

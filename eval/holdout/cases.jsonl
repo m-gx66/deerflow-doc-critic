@@ -1,0 +1,5 @@
+{"id":"doc_021","task":"审查预算超支比例是否正确","doc":"doc_021.docx","expected":[{"anchor":"两个项目合计实际支出 141 万元，比预算合计 130 万元超支 20%","type":"math_error","severity":"blocker"}]}
+{"id":"doc_022","task":"审查单位换算是否正确","doc":"doc_022.docx","expected":[{"anchor":"总距离 3.6km，即 360m","type":"conversion_error","severity":"blocker"}]}
+{"id":"doc_023","task":"审查日期计算是否正确","doc":"doc_023.docx","expected":[{"anchor":"结束日期为 2025-03-01","type":"date_error","severity":"major"}]}
+{"id":"doc_024","task":"审查调价后的最终价格是否正确","doc":"doc_024.docx","expected":[{"anchor":"最终价格为 200 元","type":"math_error","severity":"blocker"}]}
+{"id":"doc_025","task":"审查总重量是否正确","doc":"doc_025.docx","expected":[{"anchor":"三件产品总重 3.0kg","type":"conversion_error","severity":"blocker"}]}

@@ -1,0 +1,3 @@
+ - name: write_file
+    group: file:write
+    use: deerflow.sandbox.tools:write_file_tool
